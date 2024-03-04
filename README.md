@@ -13,4 +13,7 @@
   # Algorithm
   * Simple basic C programming, the main idea is to understand how the pins are called and setup
 # Explanation of pins
-* (Explain in here)
+* The PWM module will use a TPM module based on the schematics on thiis link:
+  * (provide link here)
+* Then pinks provided from the image above will be GPIO which will toggle the motors "direction", this table below will explain which direction it'll go into.:
+  * (provide link in here)
